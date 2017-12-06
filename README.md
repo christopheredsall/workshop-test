@@ -3,3 +3,4 @@ Test repo for workshop
 
 Another paragraph
 
+Third paragraph
